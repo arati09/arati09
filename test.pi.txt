@@ -1,0 +1,2 @@
+#fsrst python program
+print('hello welcome to python');
